@@ -1,7 +1,7 @@
 Summary:	Firmware for the RT3090 chip
 Name:		rt3090-firmware
 Version:	2.1.0.0
-Release:	4
+Release:	5
 # Firmware file common/rt2860.bin from
 # http://www.ralinktech.com.tw/data/drivers/2009_0612_RT3090_Linux_STA_V2.1.0.0_DPO.tar.gz
 # It's renamed in install to rt3090.bin (dkms-rt3090 is patched to support this)
