@@ -21,7 +21,7 @@ This package contains the firmware files for the RT3090 chip.
 %build
 
 %install
-install -m644 %{SOURCE0} -Dn %{buildroot}/lib/firmware/rt3090.bin
+install -m644 %{SOURCE0} -D %{buildroot}/lib/firmware/rt3090.bin
 
 %files
 /lib/firmware/rt3090.bin
