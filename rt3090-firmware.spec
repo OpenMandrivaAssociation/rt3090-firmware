@@ -10,7 +10,7 @@ Release:	5
 Source0:	rt2860.bin
 Group:		System/Kernel and hardware
 License:	Redistributable, no modification permitted
-Url:		http://www.ralinktech.com
+Url:		https://www.ralinktech.com
 BuildArch:	noarch
 
 %description
